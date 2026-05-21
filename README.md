@@ -125,6 +125,7 @@ Pastikan sudah menginstall:
 
 # ▶️ Installation
 
+
 ## 1. Clone Repository
 
 ```bash
@@ -151,7 +152,12 @@ flutter pub get
 
 ---
 
-## 4. Run Project
+## 4. Pastikan emulator di android studio sudah menyala dan siap terkonek dengan project
+
+---
+
+
+## 5. Run Project
 
 ```bash
 flutter run
